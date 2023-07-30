@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aprendo programacion</title>
+</head>
+<body>
+<p>Redacto mi primer alerta en JavaScript</p>
+<Script>
+alert("rubencho");
+</body>
+</html>
